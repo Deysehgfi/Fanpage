@@ -1,0 +1,53 @@
+nav{
+    background-color:rgb(237, 202, 169);
+    padding: 1rem;}
+
+
+.nav-link{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: rgb(85, 36, 3);
+    font-weight: 600;}
+
+
+article{ 
+    text-align: start;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0.8rem;
+    background-color: rgb(114, 21, 21);
+    color: rgb(205, 202, 202);}
+
+
+footer{
+   
+    text-align: center;
+    color: white;}
+
+body{
+    background-color: rgb(152, 32, 33);
+}
+
+.capa{
+    text-align: center;
+}
+
+a:hover{
+    color: rgb(195, 44, 44);
+    font-size: 20px;
+    transition: 1s;
+}
+
+a{
+   
+    display: inline-block;
+}
+
+.imagens{
+    width: 500px;
+    height: 300px;
+}
+
+.Family{
+    text-align: center;
+    ;
+}
